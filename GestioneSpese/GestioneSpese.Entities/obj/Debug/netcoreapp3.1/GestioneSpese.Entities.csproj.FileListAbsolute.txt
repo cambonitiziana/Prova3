@@ -1,0 +1,9 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Entities.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Entities.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\bin\Debug\netcoreapp3.1\GestioneSpese.Entities.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana3\ProvaSettimana3\GestioneSpese\GestioneSpese.Entities\obj\Debug\netcoreapp3.1\GestioneSpese.Entities.pdb
